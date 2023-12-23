@@ -1,6 +1,7 @@
 # Welcome to my profile 👽
 ## Contacts 👋
-- [<img src="">](https://vk.com/miroslavonelove)
+- [Vkontakte](https://vk.com/miroslavonelove)
+- [Telegram](https://tg.me/semikitten123)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsvest&layout=compact)
 
