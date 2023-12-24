@@ -1,5 +1,5 @@
 ![Без имени](https://github.com/Marsvest/Marsvest/assets/110724909/5b56f108-3eba-4734-a92f-8a2701dd2f15)
-## Welcome to my profile 👽
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Welcome+to+my+profile+%F0%9F%91%BD)](https://git.io/typing-svg)
 <!--
 ## Contacts 👋
 - [Vkontakte](https://vk.com/miroslavonelove)
@@ -17,10 +17,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!--
-**Marsvest/Marsvest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
